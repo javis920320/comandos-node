@@ -1,0 +1,3 @@
+  let getNombre=()=>{
+  	return 'Javier';
+  }
